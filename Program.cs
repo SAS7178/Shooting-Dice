@@ -27,6 +27,7 @@ namespace ShootingDice
 
             Player large = new LargeDicePlayer();
             large.Name = "Bigun Rollsalot";
+            
 
             player1.Play(large);
 
